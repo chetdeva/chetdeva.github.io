@@ -8,13 +8,13 @@ _Like good food and exercise can make healthy body and mind, pragmatic approach 
 
 - [Fueled](http://fueled.com/) : Worked on Appetize Kiosk App by Appetize, IBM IaaS App by IBM, Dialog App by Komson Media, Garage Cricket Library by Fueled, Printed App by Canon, [RiteAid App](https://play.google.com/store/apps/details?id=com.riteaid.android&hl=en) by Rite Aid Pharmacy, [Snippety Library](https://github.com/Fueled/snippety) by Fueled.
 - [Click Labs](http://click-labs.com/) : Worked on Linkitch App and LaborGo App. 
-- [Campus Oxide](http://www.campusoxide.com/) : Worked on [CampusOxide App](https://play.google.com/store/apps/details?id=com.campusoxide.app.campusoxide&hl=en) (using MVP) and API (using JAX-RS Jersey).
+- [Campus Oxide](http://www.campusoxide.com/) : Worked on [CampusOxide App](https://play.google.com/store/apps/details?id=com.campusoxide.app.campusoxide&hl=en) (using MVP) and REST API (using JAX-RS Jersey).
 - [Addval Solutions, Mohali](http://www.addvalabs.com/) : Worked on [Kulcare App](https://play.google.com/store/apps/details?id=com.kulcare.android.kulcarepatient&hl=en_IN)
 
 ### Spoken at
 
 - Fragments 2017, Bangalore - [Lottie: Animating the bridge between Designers and Developers](https://speakerdeck.com/chetdeva/lottie-animating-the-bridge-between-designers-anddevelopers)
-- GDG Mumbai, DevFest 2017 [Boil Boilerplate Code with Data Binding](https://speakerdeck.com/chetdeva/boil-boilerplate-code-with-data-binding)
+- GDG Mumbai, DevFest 2017 - [Boil Boilerplate Code with Data Binding](https://speakerdeck.com/chetdeva/boil-boilerplate-code-with-data-binding)
 
 ### Blogs
 
@@ -41,3 +41,5 @@ _Like good food and exercise can make healthy body and mind, pragmatic approach 
 - [LinkedIn](https://www.linkedin.com/in/chetsacheva)
 
 So now you know me, how about I get to know you? Let's connect! :)
+
+Thanks for stopping by!
