@@ -22,9 +22,9 @@ _Like good food and exercise can make healthy body and mind, pragmatic approach 
 - [Swipe ⇆ Drag ⇅ Bind RecyclerView](https://medium.com/fueled-engineering/swipe-drag-bind-recyclerview-817408125530)
 - [Binding Spinner in Android using DataBinding & InverseDataBinding 💫](https://medium.com/fueled-engineering/binding-spinner-in-android-c5fa8c084480)
 - [Catch your coffee at The Dagger Cafe](https://medium.com/@chet.deva/catch-your-coffee-at-the-dagger-cafe%EF%B8%8F-2e9be457b09d)
-- [Style your text with Snippety](https://medium.com/fueled-engineering/style-your-text-using-snippety-9d205eb02fde)
 - [Collapsing FCM Notification? Like a pro!](https://medium.com/fueled-engineering/collapsing-fcm-notification-like-a-pro-102a4946b350)
 - [Testing FCM Notifications? Like a pro!](https://medium.com/fueled-engineering/testing-fcm-notifications-like-a-pro-e3db32d87e84)
+- [Style your text with Snippety](https://medium.com/fueled-engineering/style-your-text-using-snippety-9d205eb02fde)
 - [HTML for Android](https://medium.com/fueled-engineering/html-for-android-a3ea62f101b9)
 - [Lottie Android Pie for Animation Lovers ❤](https://medium.com/fueled-engineering/lottie-android-pie-for-animation-lovers-cd9d608fa039)
 
