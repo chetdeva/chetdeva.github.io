@@ -35,11 +35,11 @@ _Like good food and exercise can make healthy body and mind, pragmatic approach 
 - [SpeakerDeck](https://speakerdeck.com/chetdeva)
 - [Youtube](https://www.youtube.com/channel/UC_4TBWZcI-tdZ02wESTRVNw)
 
+So now you know me, how about I get to know you? Let's connect!
+
 ### Social
 
 - [Twitter](https://twitter.com/Chetsachdeva)
 - [LinkedIn](https://www.linkedin.com/in/chetsacheva)
 
-So now you know me, how about I get to know you? Let's connect! :)
-
-Thanks for stopping by!
+Thanks for stopping by! :)
