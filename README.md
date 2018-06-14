@@ -9,7 +9,7 @@ _Like good food and exercise can make healthy body and mind, pragmatic approach 
 - [Fueled](http://fueled.com/) : Worked on Appetize Kiosk App by Appetize, IBM IaaS App by IBM, Dialog App by Komson Media, Garage Cricket Library by Fueled, Printed App by Canon, [RiteAid App](https://play.google.com/store/apps/details?id=com.riteaid.android&hl=en) by Rite Aid Pharmacy, [Snippety Library](https://github.com/Fueled/snippety) by Fueled.
 - [Click Labs](http://click-labs.com/) : Worked on Linkitch App and LaborGo App. 
 - [Campus Oxide](http://www.campusoxide.com/) : Worked on [CampusOxide App](https://play.google.com/store/apps/details?id=com.campusoxide.app.campusoxide&hl=en) (using MVP) and REST API (using JAX-RS Jersey).
-- [Addval Solutions, Mohali](http://www.addvalabs.com/) : Worked on [Kulcare App](https://play.google.com/store/apps/details?id=com.kulcare.android.kulcarepatient&hl=en_IN)
+- [Addval Labs](http://www.addvalabs.com/) : Worked on [Kulcare App](https://play.google.com/store/apps/details?id=com.kulcare.android.kulcarepatient&hl=en_IN)
 
 ### Spoken at
 
