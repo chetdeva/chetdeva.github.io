@@ -1,6 +1,6 @@
 # Chetan Sachdeva
 
-Chetan is a Transformer; he can transform ideas into apps by writing code. He is an proud Android Developer from India and wants to make this world a better place with his ideas by leveraging technology.
+Chetan is a Transformer; he can transform ideas into apps by writing code. He is an Android Developer from India and wants to make this world a better place with his ideas by leveraging technology.
 
 _Like good food and exercise can make healthy body and mind, pragmatic approach and best practices to programming can make healthy apps._ - Chetan
 
