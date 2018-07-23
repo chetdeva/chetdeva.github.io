@@ -1,8 +1,8 @@
 # Chetan Sachdeva
 
-Chetan is a Transformer; he can transform ideas into apps by writing code. He is an Android Developer from India and wants to make this world a better place with his ideas by leveraging technology.
+I'm a Transformer; I can transform ideas into apps by writing code. I am an Android Developer from India and I want to make this world a better place with my ideas by leveraging technology.
 
-_Like good food and exercise can make healthy body and mind, pragmatic approach and best practices to programming can make healthy apps._ - Chetan
+_Like good food and exercise can make healthy body and mind, best practices and pragmatic approach to programming can make healthy apps._ - Chetan
 
 ### Worked at
 
@@ -18,6 +18,7 @@ _Like good food and exercise can make healthy body and mind, pragmatic approach 
 
 ### Blogs
 
+- [Android Paging for Network Uncovered!](https://medium.com/@chet.deva/android-paging-for-network-uncovered-b9cb85ca637b)
 - [Scroll ⇈ Pull ⇊ Bind and Paginate RecyclerView](https://medium.com/fueled-engineering/scroll-pull-bind-paginate-recyclerview-30d5aed8b43a)
 - [Swipe ⇆ Drag ⇅ Bind RecyclerView](https://medium.com/fueled-engineering/swipe-drag-bind-recyclerview-817408125530)
 - [Binding Spinner in Android using DataBinding & InverseDataBinding 💫](https://medium.com/fueled-engineering/binding-spinner-in-android-c5fa8c084480)
