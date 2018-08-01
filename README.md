@@ -1,14 +1,13 @@
 # Chetan Sachdeva
 
-I'm a Transformer; I can transform ideas into apps by writing code. I am an Android Developer from India and I want to make this world a better place with my ideas by leveraging technology.
+I'm a Transformer who transform ideas into apps by writing code. I am an Android Developer from India and want to make this world a better place by leveraging technology.
 
 _Like good food and exercise can make healthy body and mind, best practices and pragmatic approach to programming can make healthy apps._ - Chetan
 
 ### Worked at
 
 - [Fueled](http://fueled.com/) : Worked on Appetize Kiosk App by Appetize, IBM IaaS App by IBM, Dialog App by Komson Media, Garage Cricket Library by Fueled, Printed App by Canon, [RiteAid App](https://play.google.com/store/apps/details?id=com.riteaid.android&hl=en) by Rite Aid Pharmacy, [Snippety Library](https://github.com/Fueled/snippety) by Fueled.
-- [Click Labs](http://click-labs.com/) : Worked on [Linkitch App](https://play.google.com/store/apps/details?id=com.linkitch.kitch&hl=it) and [LaborGo App](https://play.google.com/store/apps/details?id=com.laborgo&hl=en). 
-- [Campus Oxide](http://www.campusoxide.com/) : Worked on [CampusOxide App](https://play.google.com/store/apps/details?id=com.campusoxide.app.campusoxide&hl=en) (using MVP) and REST API (using JAX-RS Jersey).
+- [Click Labs](http://click-labs.com/) : Worked on [Linkitch App](https://play.google.com/store/apps/details?id=com.linkitch.kitch&hl=it), [LaborGo App](https://play.google.com/store/apps/details?id=com.laborgo&hl=en) and [CampusOxide App](https://play.google.com/store/apps/details?id=com.campusoxide.app.campusoxide&hl=en).
 - [Addval Labs](http://www.addvalabs.com/) : Worked on [Kulcare App](https://play.google.com/store/apps/details?id=com.kulcare.android.kulcarepatient&hl=en_IN)
 
 ### Spoken at
