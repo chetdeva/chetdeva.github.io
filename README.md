@@ -1,6 +1,6 @@
 # Chetan Sachdeva
 
-I'm a Transformer who can transform ideas into apps by writing code. I am an Android Developer from India and want to make this world a better place by leveraging technology.
+A software developer a transformer who can transform ideas into apps by writing code. I am an Android Developer from India and want to make this world a better place by leveraging technology.
 
 _Like good food and exercise can make healthy body and mind, best practices and pragmatic approach to programming can make healthy apps._ - a quote by me
 
