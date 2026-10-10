@@ -108,3 +108,16 @@ The portfolio is a dependency-free static site served by GitHub Pages from `mast
 Preview with `python3 -m http.server 8765`, then visit `http://localhost:8765`.
 
 GitHub project dates and stars are a manually verified snapshot from October 10, 2026; they are not a live feed. Update the visible snapshot date when refreshing these values. Sources: public [repositories API](https://api.github.com/users/chetdeva/repos?per_page=100&sort=pushed), and the linked project READMEs. Career history, talks, and writing were retained from the existing portfolio README.
+
+
+### Project visuals
+
+The showcase uses screenshots and GIFs from the original public repositories, copied into `assets/projects/` to keep the portfolio self-contained. GIFs display a still preview until a visitor chooses Play GIF; Stop GIF returns to that preview. MoviesApp screenshots link to their full-size originals.
+
+Sources:
+- MoviesApp: the two screenshot attachments in its [README](https://github.com/chetdeva/MoviesApp#readme).
+- Madrasi: `README_images/madrasi_app_screencast.gif`.
+- Flutter Search Engine: `README_images/search_engine_screen.gif`.
+- RecyclerView Bindings: `README_images/recyclerview_bindings.gif`.
+
+Still previews are frames extracted from the original GIFs; no mock screenshots are used.
