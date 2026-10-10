@@ -60,13 +60,20 @@ Senior Software Engineer with 10 years of experience across Android and iOS mobi
 - [SpeakerDeck](https://speakerdeck.com/chetdeva)
 - [YouTube](https://www.youtube.com/channel/UC_4TBWZcI-tdZ02wESTRVNw)
 
+#### Recent public work (October 10, 2026)
+
+- [Qcalendar](https://github.com/chetdeva/qcalendar): booking APIs, per-teacher calendars, roles, group classes, and a responsive home UI. [AWS deployment PR #5](https://github.com/chetdeva/qcalendar/pull/5) is open; PRs #1–4 are merged.
+- [Quanttoria](https://github.com/chetdeva/quanttoria-8e): teacher availability and timezone-aware student booking with cancellation, rescheduling, and conflict checks.
+- [SaiNitya Academy](https://github.com/chetdeva/SaiNityaAcademy): live math tutoring MVP with student/teacher dashboards and class scheduling.
+- [MoviesApp](https://github.com/chetdeva/MoviesApp): Kotlin Android movie search with OMDb, infinite scrolling, and movie details.
+
 #### Featured Repositories:
 - [Flutter Search Engine](https://github.com/chetdeva/searchengine)
 - [Snippety](https://github.com/Fueled/snippety)
 - [Madrasi](https://github.com/chetdeva/Madrasi)
-- [FlickrIt](https://github.com/chetdeva/Flickrlt)
+- [FlickrIt](https://github.com/chetdeva/FlickrIt)
 - [Collapsing Notifications](https://github.com/chetdeva/collapsing-notifications)
-- [Android Accessibility](https://github.com/chetdeva/android-accessibility)
+- [Android Accessibility](https://github.com/chetdeva/Accessibility)
 - [CLUI (JavaScript)](https://github.com/chetdeva/clui)
 
 ---
@@ -86,3 +93,19 @@ So now you know me, how about I get to know you? Let's connect!
 - [Twitter](https://twitter.com/Chetsachdeva)
 
 Thanks for stopping by! :)
+
+
+---
+
+### Website maintenance
+
+The portfolio is a dependency-free static site served by GitHub Pages from `master` at the repository root. `.nojekyll` bypasses the former Cayman theme. The previous `_config.yml` is retained for reference.
+
+- `index.html`: portfolio copy, project cards, contribution snapshot, and links.
+- `assets/style.css`: responsive layout and visual theme.
+- `assets/site.js`: progressive-enhancement project filters. Content stays available without JavaScript.
+- `assets/favicon.svg`: local favicon.
+
+Preview with `python3 -m http.server 8765`, then visit `http://localhost:8765`.
+
+GitHub project dates, stars, and PR statuses are a manually verified snapshot from October 10, 2026; they are not a live feed. Update the visible snapshot date when refreshing these values. Sources: public [repositories API](https://api.github.com/users/chetdeva/repos?per_page=100&sort=pushed), [qcalendar pull requests API](https://api.github.com/repos/chetdeva/qcalendar/pulls?state=all), and the linked project READMEs. Career history, talks, and writing were retained from the existing portfolio README.
