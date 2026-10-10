@@ -944,3 +944,9 @@ footer>div {
 .demo-toggle:hover { border-color: var(--accent); color: var(--accent); }
 .project h3 a:focus-visible { outline-offset: 4px; }
 @media (max-width: 650px) { .project-screens { height: 200px; gap: 10px; padding: 16px; } .project-screens img { height: 168px; } }
+
+/* Match the two wider Android captures without enlarging their previews. */
+.project-screens img.compact-preview { width: 90px; height: 160px; }
+@media (max-width: 650px) {
+  .project-screens img.compact-preview { width: 81px; height: 144px; }
+}
